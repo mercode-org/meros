@@ -19,7 +19,9 @@
  - @name
 
 ## Who did what
-> _you will be called by the moderators to say a few words about the things you did, if you want to_
+
+> _copy this template and add your points_
+_you will be called by the moderators to say a few words about the things you did, if you want to_
 
 - @name:
   - Done:
@@ -57,3 +59,16 @@ _any big topics for next week?_
 `It's merOS meeting time again! Join us at 16 UTC (in 15 minutes) over at https://zoom.us/j/814922171 and checkout the agenda at HACKMD`
 
 - The zoom meeting should have "Join before Host", so people could already be waiting. Have some fun talking :P
+
+## Meeting
+
+- Ask everyone to add their agenda items and things they did this week
+- Go through the list of things done, call everyone
+- Go through the agenda
+- Ask for any last minute items
+- End the meeting
+
+## Post-meeting
+
+- Copy the notes from hackMD to a .md file in this repo, under notes/weekly/DD-MM-YYYY.md
+- Edit the recording and publish it somewhere (TODO: figure out where)
