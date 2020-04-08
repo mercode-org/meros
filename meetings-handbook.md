@@ -57,7 +57,7 @@ _any big topics for next week?_
 
 - Announce the meeting with a direct link to the notes & call in merOS & mercode group 15 minutes before
 
-`It's merOS meeting time again! Join us at 16 UTC (in 15 minutes) over at LINK and checkout the agenda at HACKMD`
+`It's merOS meeting time again! Join us at 16 UTC (in 15 minutes) over at LINK and checkout the agenda at HACKMD (don't forget to add your items to the agenda)`
 
 ## Meeting
 
