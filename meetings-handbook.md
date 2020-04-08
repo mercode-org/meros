@@ -12,7 +12,6 @@
 # merOS Meeting DD-MM-YYYY
 
 - GitHub Issue: https://github.com/mercode-org/meros/issues/1
-- Zoom Call: https://zoom.us/j/814922171
 
 **Attendees**:
 > _add yourself here_
@@ -48,20 +47,21 @@ _any big topics for next week?_
 #### When? DD-MM-YYYY 16 UTC / 18 DE / 19 Turkey
 #### Where? Online
 
-- Zoom Call: https://zoom.us/j/814922171
+- Jitsi Link: Will be announced on t.me/merosdistro at 15:45 UTC
 - Notes: LINK
 ```
 
 ## Just before the meeting
 
+- Create the meeting at meet.jit.si
+
 - Announce the meeting with a direct link to the notes & call in merOS & mercode group 15 minutes before
 
-`It's merOS meeting time again! Join us at 16 UTC (in 15 minutes) over at https://zoom.us/j/814922171 and checkout the agenda at HACKMD`
-
-- The zoom meeting should have "Join before Host", so people could already be waiting. Have some fun talking :P
+`It's merOS meeting time again! Join us at 16 UTC (in 15 minutes) over at LINK and checkout the agenda at HACKMD`
 
 ## Meeting
 
+- Start the recording to dropbox
 - Ask everyone to add their agenda items and things they did this week
 - Go through the list of things done, call everyone
 - Go through the agenda
