@@ -44,10 +44,10 @@ _any big topics for next week?_
 ```md
 ## MerOS Weekly Meeting
 
-#### When? DD-MM-YYYY 17 UTC / 19 DE / 20 Turkey
+#### When? DD-MM-YYYY 16 UTC / 18 DE / 19 Turkey
 #### Where? Online
 
-- Jitsi Link: Will be announced on t.me/merosdistro at 16:45 UTC
+- Jitsi Link: Will be announced on t.me/merosdistro at 15:45 UTC
 - Notes: LINK
 ```
 
@@ -57,7 +57,7 @@ _any big topics for next week?_
 
 - Announce the meeting with a direct link to the notes & call in merOS & mercode group 15 minutes before
 
-`It's merOS meeting time again! Join us at 17 UTC (in 15 minutes) over at LINK and checkout the agenda at HACKMD (don't forget to add your items to the agenda)`
+`It's merOS meeting time again! Join us at 16 UTC (in 15 minutes) over at LINK and checkout the agenda at HACKMD (don't forget to add your items to the agenda)`
 
 ## Meeting
 
